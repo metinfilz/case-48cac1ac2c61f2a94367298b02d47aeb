@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+docker-compose.yaml
+yarn.lock
+
+dist
+node_modules
+
+
